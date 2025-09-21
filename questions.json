@@ -1,0 +1,42 @@
+[
+  {
+    "q": "What is the main purpose of EN ISO 13849-1?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "What are the six steps to a safe machine according to SICK?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "What hazards does OSHA 3170 focus on?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "What is the difference between SIL and PL according to Pilz?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "How does Rockwell's SafeBook define machine safety categories?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "What are common guarding methods in woodworking machines?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "What is SISTEMA used for?",
+    "k": 3,
+    "mode": "baseline"
+  },
+  {
+    "q": "When should the system abstain from answering?",
+    "k": 3,
+    "mode": "baseline"
+  }
+]
